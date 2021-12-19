@@ -45,7 +45,7 @@ Thumbs.db
 *.ilk
 *.log
 [Bb]in
-[Dd]ebug*/
+# [Dd]ebug*/
 *.sbr
 obj/
 [Rr]elease*/
